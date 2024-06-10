@@ -1,9 +1,6 @@
 {
   "id": "server_generate_image_via_dalle_3",
   "uuid": "897e5037-3b05-448d-bc24-c6ebe432ae09",
-  "system": true,
-  "isServerPlugin": true,
-  "disabled": true,
   "userSettings": [
     {
       "name": "openaikey",
